@@ -11,7 +11,7 @@ const HomeComponent = () => {
             <h1>Repaso GifAppExpert</h1>
             <InputComponent setCategory={setCategory} />
             <hr />
-            <GridComponent category={category}/>
+            <GridComponent category={category} />
         </div>
     )
 }
