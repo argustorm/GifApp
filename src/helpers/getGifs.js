@@ -1,7 +1,7 @@
 
 // Params Giphy API
 const base_url = 'http://api.giphy.com/v1/gifs/';
-const api_key = 'tvkdcmoFiFH570iZNWfAIzMm52mgfk7g';
+const api_key = 'fJtmfyWZCBEQAbWLOzzMlqYwf6cY5Mux';
 const limit = 10;
 
 // Request getGifs
